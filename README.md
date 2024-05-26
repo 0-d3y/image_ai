@@ -22,12 +22,12 @@ IMAGE AI is an advanced library for creating high-resolution images with artific
 You can install image ai using pip:
 
 ```
-pip install image-ai
+pip install img-ai
 ```
 
 ## Example:
 ```
-from image_ai import image_ai
+from img_ai import image_ai
 
 
 user_input = input("Enter Your Text: ")
